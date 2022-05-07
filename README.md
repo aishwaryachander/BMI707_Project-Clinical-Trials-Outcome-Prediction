@@ -1,4 +1,4 @@
-## Clinical Trial Outcome Prediction
+## Clinical Trial Outcome Prediction using Deep Learning 
 **BMI707 Final Project (Spring 2022) by Aishwarya Chander, Benedikt Geiger, Kezia Irene, Man Qing Liang, Thomas Smits at the Department of Biomedical Informatics, Harvard Medical School.**
 
 ### Description:  
