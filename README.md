@@ -9,8 +9,6 @@ Clinical trials for therapeutics are a time and resource intensive process influ
 
 ![alt text](https://github.com/aishwaryachander/BMI707_Project-Clinical-Trials-Outcome-Prediction/blob/main/Images/BMI707_Final_Poster.png "Scientifc Poster")
 
-Reference-style: 
-
 ### GitHub Structure
 1. Data Processing: Files used to generate Data Embeddings as described in the final report. 
 2. MLP Model: Deep learning multilayer perceptron model. 
