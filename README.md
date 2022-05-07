@@ -7,6 +7,6 @@ Clinical trials for therapeutics are a time and resource intensive process influ
 
 ### GitHub Structure
 1. Embeddings Data: 
-2. Embeddings Code: 
-3. MLP Model 
+2. Data Processing: 
+3. MLP Model: 
 4. Baseline Models: 
